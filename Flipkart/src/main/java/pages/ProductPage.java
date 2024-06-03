@@ -7,6 +7,9 @@ public class ProductPage
 	{
 		
 	}
+	public void payment()
+	{
 	
+	}
 
 }
